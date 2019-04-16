@@ -2,7 +2,7 @@
     -- Main Program --
 
     Author: Abhinav Lakhani
-    akshu3398@gmail.com
+    3398abhinav@gmail.com
 
     Originally programmed by Atari in 1972. Features two
     paddles, controlled by players, with the goal of getting
